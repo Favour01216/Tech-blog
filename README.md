@@ -76,7 +76,7 @@ Start Server;
 * WHEN I click on the button to add a new blog post
 
 ## Live view
-
+(https://tech-blogg5.herokuapp.com/)
 view of homepage
 ![](./public/images/homepagee.png)
 
